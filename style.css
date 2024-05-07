@@ -335,17 +335,17 @@ nav .fas{
 @media only screen and (max-width: 600px){
     #header{
         background-image: url("Lovepik_com-610438392-Office\ secretary\,\ young\ lady\,\ knocking\ on\ computer\,\ laughing\ at\ .png");
-
-      }
+      
+    }
 
     .header-text{
         margin-top: 15%;
-        font-size: 16px;
+        font-size: 12px;
         position: relative;
         background-position: left;
     }
     .header-text h1{
-        font-size: 20px;
+        font-size: 10px;
         position: relative;
         background-position: left;
     }
