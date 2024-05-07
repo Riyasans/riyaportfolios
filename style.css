@@ -335,7 +335,7 @@ nav .fas{
 @media only screen and (max-width: 600px){
     #header{
         background-image: url("Lovepik_com-610438392-Office\ secretary\,\ young\ lady\,\ knocking\ on\ computer\,\ laughing\ at\ .png");
-      background-size: 450px , 450px;
+      background-size: 100% , 100%;
     }
 
     .header-text{
